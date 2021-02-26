@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "Dragontopia (config)"
+title = "Dragontopia"
 
 [params]
 google_analytics_id = ""
