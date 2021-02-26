@@ -11,7 +11,6 @@ google_tag_manager_id = ""
   hide_view_all_services = false
 
   [params.logo]
-  mobile = "images/logo/logo-mobile.svg"
   desktop = "images/logo/logo.svg"
   desktop_height = "36px"
   alt = "Dragontopia"
